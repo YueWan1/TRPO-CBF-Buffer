@@ -12,8 +12,9 @@ each learning episode using TRPO-CBF, TRPO-CBF with Buffer, TRPO-CBF reproduced.
 
 We ran 200 episodes of TRPO-CBF algorithm and TRPO-CBF with Buffer as comparision
 
-#### Model Architecture
+#### Model Architecture & Problem Simulation
 ![Model Architecture](flowchart.png)
+![Problem Simulation](car_road.png)
 
 #### Project Report: - FoRL_Project_Report.pdf
 
