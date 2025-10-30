@@ -12,6 +12,9 @@ each learning episode using TRPO-CBF, TRPO-CBF with Buffer, TRPO-CBF reproduced.
 
 We ran 200 episodes of TRPO-CBF algorithm and TRPO-CBF with Buffer as comparision
 
+#### Model Architecture
+![Model Architecture](framework.jpg)
+
 #### Data for TRPO-CBF:
 - `data/data1_24-12-11-20-29-ori.mat`
 - `data/data1_24-12-11-18-58-ori.mat`
