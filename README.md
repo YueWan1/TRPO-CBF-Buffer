@@ -15,6 +15,8 @@ We ran 200 episodes of TRPO-CBF algorithm and TRPO-CBF with Buffer as comparisio
 #### Model Architecture
 ![Model Architecture](flowchart.png)
 
+#### Project Report: - FoRL_Project_Report.pdf
+
 #### Data for TRPO-CBF:
 - `data/data1_24-12-11-20-29-ori.mat`
 - `data/data1_24-12-11-18-58-ori.mat`
